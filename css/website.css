@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://static.popdaily.com.tw/static/article/5606/1447121607zp1he3.jpg');
+}
+
+p{
+    font-size: 18px;
+    font-weight: 900;
+    color: white;
+    width:100px;
+   
+}
+#profile{
+    display:none;
+}
+
